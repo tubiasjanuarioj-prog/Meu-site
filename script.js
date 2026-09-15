@@ -4,32 +4,32 @@ const produtos = [
   {
     nome: "Highschool Thots",
     descricao: "Chupando o pau devazagar.",
-    preco: 30$
+    preco: 30
   },
   {
     nome: "English Teens",
     descricao: "Gostosa até no cuzinho.",
-    preco: 25$
+    preco: 25
   },
   {
     nome: "Teens Blowjob",
     descricao: "Coleção de pau.",
-    preco: 35$
+    preco: 35
   },
   {
     nome: "Highschool Thots",
     descricao: "Fodendo o cuzinho aperdado.",
-    preco: 20$
+    preco: 20
   },
   {
     nome: "Monkeyapp - Reactions on BBC",
     descricao: "Dando a buceta ao negão.",
-    preco: 40$
+    preco: 40
   },
   {
     nome: "card.innerHTML",
     descricao: "introduzindo pepino no cuzinho.",
-    preco: 20$
+    preco: 20
   }
 ];
 
