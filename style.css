@@ -69,16 +69,7 @@ main {
 
 .btn:hover {
   opacity: .9;
-}
-.adult-warning {
-  background: #8b0000;
-  color: white;
-  padding: 12px;
-  border-radius: 8px;
-  text-align: center;
-  font-weight: bold;
-  margin: 15px 0;
-}
+
 .bundle,
 .payment {
   margin-top: 25px;
@@ -101,4 +92,13 @@ footer {
   text-align: center;
   padding: 25px;
   color: #666;
+}
+.adult-warning {
+  background: #8b0000;
+  color: white;
+  padding: 12px;
+  border-radius: 8px;
+  text-align: center;
+  font-weight: bold;
+  margin: 15px 0;
 }
